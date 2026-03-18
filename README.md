@@ -1,26 +1,45 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=BAKON%20DEV&fontAlign=50&fontAlignY=40&color=0:ff0000,100:000000&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KHOJAGULOV%20DEV&fontAlign=50&fontAlignY=40&color=0:1a1a1a,100:ff0000&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.png" width="100%" />
 </p>
 
 <h1 align="center">👁️ Welcome to My World 👁️</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/6y0X3p9w3eQAAAAC/sharingan-naruto.gif" width="200"/>
+  <img src="https://media.tenor.com/6y0X3p9w3eQAAAAC/sharingan-naruto.gif" width="180"/>
 </p>
 
 ---
 
-### 💻 About Me:
+## 👋 Hi, I'm Khojagulov Bagdawlet
+
+### 💻 Web Developer Student
+
+### 😊 About Me:
 - 🎓 Student at Muhammad al-Xorezmiy
 - 💻 Learning HTML5 & CSS3
-- ⚡ Building hacker-style projects
-- 🌍 Uzbekistan
+- ⚡ Building hacker-style web projects
+- 🌍 Uzbekistan, Karaqalpaqstan
 
 ---
 
 ### 🔥 Skills:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khojagulovdev-dev&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khojagulovdev-dev&theme=radical" />
 </p>
 
 ---
@@ -31,5 +50,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff0000,100:000000"/>
 </p>
