@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KHOJAGULOV%20DEV&fontAlign=50&fontAlignY=40&color=0:1a1a1a,100:ff0000&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KHOJAGULOV%20&fontAlign=50&fontAlignY=40&color=0:1a1a1a,100:ff0000&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">👁️ Welcome 👁️</h1>
@@ -18,7 +18,7 @@
 - 🎓 Student at Muhammad al-Xorezmiy
 - 💻 Learning HTML & CSS
 - ⚡ Building hacker-style web projects
-- 🌍 Karakalpakstan Uzbekstan
+- 🌍 Uzbekstan
 
 ---
 
